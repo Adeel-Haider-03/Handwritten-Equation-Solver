@@ -27,13 +27,13 @@ A web-based application that recognizes handwritten math equations from images a
 - **Libraries**: OpenCV, Tesseract OCR, SymPy, PIL
   
 ## 📂 Project Structure
-├── app.py
-├── templates/
-│ └── index.html
-├── static/
-├── uploads/
-├── requirements.txt
-
+├── app.py  
+├── templates/  
+│ └── index.html  
+├── static/  
+├── uploads/  
+├── requirements.txt  
+  
 
 ## ⚙️ Installation
 
@@ -51,6 +51,7 @@ pip install -r requirements.txt
 
 # Run the app
 python app.py
+
 
 📦 Install Tesseract
 
