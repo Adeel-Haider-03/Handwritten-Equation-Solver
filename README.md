@@ -70,15 +70,16 @@ Step-by-step:
 4. Solve
 
 ✅ Solution: x = 2, x = 3
-📄 License
+
+
+## 📄 License
 MIT
 
-🙌 Acknowledgments
+
+##🙌 Acknowledgments
 Tesseract OCR
 
 SymPy
 
 OpenCV
-
-## 📂 Project Structure
 
